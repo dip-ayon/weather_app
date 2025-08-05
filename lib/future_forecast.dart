@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:weather_app_iub/widgets/custom_background.dart';
 import 'package:weather_app_iub/widgets/forecast_weather.dart';
-import 'package:weather_app_iub/widgets/highest_weather.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 
 class FutureForecast extends StatelessWidget {
